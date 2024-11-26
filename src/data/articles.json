@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "slug": "modern-luxury-living",
+      "category": "Lifestyle",
+      "title": "Modern Luxury Living: A Guide to Contemporary Design",
+      "excerpt": "Discover the perfect balance of comfort and sophistication in modern luxury homes.",
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+      "readMore": "Explore our comprehensive guide to modern luxury living, featuring expert insights on interior design, smart home integration, and sustainable luxury practices."
+    },
+    {
+      "slug": "timeless-style-guide",
+      "category": "Fashion",
+      "title": "The Art of Timeless Style",
+      "excerpt": "Exploring the essential elements of a sophisticated wardrobe that stands the test of time.",
+      "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef",
+      "readMore": "Delve into our expert guide on building a timeless wardrobe, featuring insights from fashion industry leaders and practical advice for every season."
+    },
+    {
+      "slug": "hidden-luxury-destinations",
+      "category": "Travel",
+      "title": "Hidden Gems: Luxury Destinations Off the Beaten Path",
+      "excerpt": "Unveiling exclusive travel experiences in unexpected locations around the globe.",
+      "image": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461",
+      "readMore": "Uncover our handpicked selection of the worlds most exclusive hidden destinations, complete with insider tips and luxury accommodation recommendations."
+    }
+  ]
+}
